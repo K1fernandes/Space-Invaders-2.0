@@ -18,3 +18,29 @@
   <a href="https://www.youtube.com/channel/UCh9rwu9ppi6SXea1haUBf2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/k1fernandes.melo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "K1fernandes.melo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+# Simple PyGame APP
+
+## Crie um ambiente virtual e ative
+
+Run `pip install virtualenv`
+Run `python -m virtualenv ./venv`
+Run `cd venv/scripts`
+
+## Linux
+
+Run `. activate`
+
+## Windows
+
+Run `activate or .\activate`
+
+## Volte pra raiz do projeto e instale as dependências
+
+Run `cd ../..`
+
+Run `pip install -r requirements.txt`
+
+## Divirta-se
+
+Run `python teste.py`
