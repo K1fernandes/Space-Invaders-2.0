@@ -21,7 +21,7 @@
 
 # Simple PyGame APP
 
-## Crie um ambiente virtual e ative
+## Create a virtual and active environment
 
 Run `pip install virtualenv`
 Run `python -m virtualenv ./venv`
@@ -35,12 +35,12 @@ Run `. activate`
 
 Run `activate or .\activate`
 
-## Volte pra raiz do projeto e instale as dependências
+## Go back to the root of the project and install the dependencies
 
 Run `cd ../..`
 
 Run `pip install -r requirements.txt`
 
-## Divirta-se
+## Enjoy
 
 Run `python teste.py`
