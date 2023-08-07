@@ -1,4 +1,4 @@
-# Space-Invaders-2.0
+# Space-Invaders-2.0 😁
 
 <img align="center" alt="Gif" height="120" width="150" src="https://blog.sciencemuseum.org.uk/wp-content/uploads/2017/10/Space-Invaders.gif">
 
